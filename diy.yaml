@@ -1,0 +1,35 @@
+payload:
+  # > DIY
+  - DOMAIN-SUFFIX,microsoft.com
+  - DOMAIN-SUFFIX,nexusedgeio.com
+  - DOMAIN-SUFFIX,appcenter.ms
+  - DOMAIN-SUFFIX,ntp.org
+  - DOMAIN-SUFFIX,ntp.org
+  - DOMAIN-SUFFIX,img-s-msn-com.akamaized.net
+  - DOMAIN-SUFFIX,scorecardresearch.com
+  - DOMAIN-SUFFIX,criteo.com
+  - DOMAIN-SUFFIX,sylog.eu.org
+  - DOMAIN-SUFFIX,bytefcdnrd.com
+  - DOMAIN-SUFFIX,teamviewer.com
+  - DOMAIN-SUFFIX,lencr.org
+  - DOMAIN-SUFFIX,entrust.net
+  - DOMAIN-SUFFIX,nelreports.net
+  - DOMAIN-SUFFIX,applogcdn.com
+  - DOMAIN-SUFFIX,ttt.sh
+  - DOMAIN-SUFFIX,m-team.cc
+  - DOMAIN-SUFFIX,crisp.chat
+  - DOMAIN-SUFFIX,menglongiot.com
+  - DOMAIN-SUFFIX,nubia.com
+  - DOMAIN-SUFFIX,ztemall.com
+  - DOMAIN-SUFFIX,xiaomixiaoai.com
+  - DOMAIN-SUFFIX,vegslb.com
+  - DOMAIN-SUFFIX,starrydyn.com
+  - DOMAIN-SUFFIX,vegslb.com
+  - DOMAIN-SUFFIX,kwai.com
+  - DOMAIN-SUFFIX,anti-ad.net
+  - DOMAIN-SUFFIX,adaway.org
+  - DOMAIN-SUFFIX,casalemedia.com
+  - DOMAIN-SUFFIX,popin.cc
+  - DOMAIN-SUFFIX,popin.cc
+  - DOMAIN-SUFFIX,mediago.io
+  - DOMAIN-SUFFIX,admaster.cc
