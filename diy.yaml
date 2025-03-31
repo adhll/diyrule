@@ -41,3 +41,19 @@ payload:
   - DOMAIN-SUFFIX,mushroomtrack.com
   - DOMAIN-SUFFIX,amazon.com
   - DOMAIN-SUFFIX,clarity.ms
+  - DOMAIN-SUFFIX,disquscdn.com
+  - DOMAIN-SUFFIX,disqus.com
+  - DOMAIN-SUFFIX,adotmob.com
+  - DOMAIN-SUFFIX,tapad.com
+  - DOMAIN-SUFFIX,taboola.com
+  - DOMAIN-SUFFIX,digitaleast.mobi
+  - DOMAIN-SUFFIX,rubiconproject.com
+  - DOMAIN-SUFFIX,pubmatic.com
+  - DOMAIN-SUFFIX,w55c.net
+  - DOMAIN-SUFFIX,jquery.com
+  - DOMAIN-SUFFIX,bidswitch.net
+  - DOMAIN-SUFFIX,doubleclick.net
+  - DOMAIN-SUFFIX,admixer.net
+  - DOMAIN-SUFFIX,asio.net
+  - DOMAIN-SUFFIX,privacysandboxservices.com
+  - DOMAIN-SUFFIX,360yield.com
