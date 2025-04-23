@@ -59,3 +59,4 @@ payload:
   - DOMAIN-SUFFIX,kamept.com
   - DOMAIN-SUFFIX,scene7.com
   - DOMAIN-SUFFIX,cdn.statically.io
+  - DOMAIN-SUFFIX,adtidy.org
