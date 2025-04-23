@@ -62,3 +62,4 @@ payload:
   - DOMAIN-SUFFIX,cdn.statically.io
   - DOMAIN-SUFFIX,adtidy.org
   - DOMAIN-SUFFIX,sealaly.net
+  - DOMAIN-SUFFIX,pusher.com
