@@ -1,5 +1,6 @@
 payload:
   # > DIY
+  - DOMAIN-SUFFIX,bdurl.net
   - DOMAIN-SUFFIX,ncsofts.com
   - DOMAIN-SUFFIX,microsoft.com
   - DOMAIN-SUFFIX,nexusedgeio.com
