@@ -1,5 +1,6 @@
 payload:
-  # > DIY
+  # > DIY(20260124)
+  - IP-CIDR,45.249.245.247/32
   - DOMAIN-SUFFIX,bdurl.net
   - DOMAIN-SUFFIX,ncsofts.com
   - DOMAIN-SUFFIX,microsoft.com
